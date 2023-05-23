@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "text": "Dashboard",
+    "path": "/dashboard",
+    "exact": true
+  },
+  {
+    "id": "2",
+    "text": "Redeem",
+    "path": "/redemption",
+    "exact": true
+  },
+  {
+    "id": "3",
+    "text":"Mint",
+    "path":"/mint",
+     "exact": true
+  }
+  
+  
+ 
+]
